@@ -1,6 +1,5 @@
 import './App.css';
 import Header from './Header';
-// import { links } from './links';
 import Hero from './Hero';
 
 
