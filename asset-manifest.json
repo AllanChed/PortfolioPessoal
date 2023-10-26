@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1acd750b.css",
-    "main.js": "/portfolio/static/js/main.2489f122.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/whatsapp.png": "/portfolio/static/media/whatsapp.c0139bed7dc4beda41a1.png",
-    "static/media/github.png": "/portfolio/static/media/github.05f6c17b8cd04c28456f.png",
-    "index.html": "/portfolio/index.html",
-    "main.1acd750b.css.map": "/portfolio/static/css/main.1acd750b.css.map",
-    "main.2489f122.js.map": "/portfolio/static/js/main.2489f122.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/PortfolioPessoal/static/css/main.1acd750b.css",
+    "main.js": "/PortfolioPessoal/static/js/main.501476d6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/PortfolioPessoal/static/js/787.1ed0c42c.chunk.js",
+    "static/media/whatsapp.png": "/PortfolioPessoal/static/media/whatsapp.c0139bed7dc4beda41a1.png",
+    "static/media/github.png": "/PortfolioPessoal/static/media/github.05f6c17b8cd04c28456f.png",
+    "index.html": "/PortfolioPessoal/index.html",
+    "main.1acd750b.css.map": "/PortfolioPessoal/static/css/main.1acd750b.css.map",
+    "main.501476d6.js.map": "/PortfolioPessoal/static/js/main.501476d6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/PortfolioPessoal/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1acd750b.css",
-    "static/js/main.2489f122.js"
+    "static/js/main.501476d6.js"
   ]
 }
